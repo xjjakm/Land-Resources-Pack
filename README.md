@@ -18,6 +18,8 @@ HOYO-MiX - 太空漫步 Space Walk
 这不是我制作的东西，是从https://landresourcepack.s3-us-east-1-accelerate.ossfiles.com 搬运的，如有侵权请联系删除
 
 ### 画廊
-![image]()
+
+主界面
+![image](https://github.com/xjjakm/Land-Resources-Pack/blob/main/.github/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-04%20170438.png)
 
 
