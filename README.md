@@ -1,3 +1,4 @@
+#仅提供v17以上版本的部分代码
 # Land-Resources-Pack
 land服务器用的资源包
 
