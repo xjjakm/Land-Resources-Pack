@@ -40,4 +40,4 @@ HOYO-MiX - 太空漫步 Space Walk
 ![image](https://github.com/xjjakm/Land-Resources-Pack/blob/main/.github/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-04%20184445.png)
 
 ### 注意：以上所有内容的资源包版本是v17-part1
-### 声明：这个资源包不是我制作的，是[MineOptimiz-Team](https://github.com/MineOptimiz-Team)制作的，如有侵权请联系删除,无特殊说明，我一般使用CC-BY-SA 4.0许可证
+### 声明：这个资源包不是我制作的，是[MineOptimiz-Team](https://github.com/MineOptimiz-Team)制作的，如有侵权请联系删除
