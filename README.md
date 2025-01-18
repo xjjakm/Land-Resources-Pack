@@ -30,7 +30,7 @@ HOYO-MiX - 太空漫步 Space Walk
 
 ![image](https://github.com/xjjakm/Land-Resources-Pack/blob/main/.github/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-04%20175606.png)
 
-代码：C:\Users\xjjak\Desktop\assets\minecraft\lang\任意文件
+代码：assets\minecraft\lang\任意文件
 
 ![image](https://github.com/xjjakm/Land-Resources-Pack/blob/main/.github/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-04%20184521.png)
 
