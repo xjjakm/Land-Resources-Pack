@@ -1,6 +1,7 @@
 #仅提供v17以上版本的部分代码
 # Land-Resources-Pack
-land服务器用的资源包
+为[Land](https://play.mcmod.cn/sv20187884.html)所制作的音乐资源包
+
 官方存储库（已过时）：https://github.com/Zoeback/LandServer
 
 最早版本：https://github.com/Whitefoggy/Land
