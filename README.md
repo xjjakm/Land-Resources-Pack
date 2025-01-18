@@ -2,6 +2,8 @@
 # Land-Resources-Pack
 land服务器用的资源包
 
+旧版分支https://github.com/Zoeback/LandServer
+
 ## 部分曲目
 
 舞風-Maikaze/時音-TOKINE - ほころびのデジャヴ",
